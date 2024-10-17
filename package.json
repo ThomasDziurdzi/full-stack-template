@@ -1,0 +1,15 @@
+{
+  "name": "react-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "test -d \"server\" && npx @biomejs/biome format --write './server'; test -d \"client\" && npx @biomejs/biome format --write './client'"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@biomejs/biome": "^1.9.4"
+  }
+}
