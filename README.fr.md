@@ -4,7 +4,7 @@
 
 Bienvenue dans ce projet full-stack utilisant **React** avec **Vite** pour le frontend et **Express** pour le backend. Ce README fournit toutes les informations nécessaires pour installer, configurer et exécuter le projet.
 
-## 📋 Table des matières
+##  Table des matières
 
 1.  [Prérequis](#prérequis)
 2.  [Installation](#installation)
@@ -64,7 +64,7 @@ init.bat
 
 Suivez les instructions à l'écran pour sélectionner l'option qui convient à votre projet.
 
-## 🏃 Exécution du projet
+##  Exécution du projet
 
 **Note** : La commande `npm install` a déjà été exécutée pendant le script d'initialisation. Si vous **n'avez pas** exécuté le script d'initialisation ou si vous avez rencontré des problèmes, vous pouvez suivre les instructions ci-dessous pour installer manuellement les dépendances et exécuter le projet.
 

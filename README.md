@@ -4,7 +4,7 @@
 
 Welcome to this full-stack project using **React** with **Vite** for the frontend and **Express** for the backend. This README provides all the necessary information to install, configure, and run the project.
 
-## 📋 Table of Contents
+##  Table of Contents
 
 1.  [Prerequisites](#prerequisites)
 2.  [Installation](#installation)
@@ -67,7 +67,7 @@ init.bat
 Follow the on-screen instructions to select the option that suits your project.
 
 
-## 🏃 Running the Project
+##  Running the Project
 
 **Note**: The `npm install` command has already been executed during the initialization script. If you **did not** run the initialization script or encountered issues, you can follow the instructions below to install dependencies and run the project manually.
 
@@ -119,7 +119,7 @@ The project files are located at the root:
 
 ```bash
 
-`your-project/
+your-project/
 ├── src/
 │   ├── App.jsx         # Main React component
 │   ├── components/     # Application components
